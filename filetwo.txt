@@ -1,0 +1,1 @@
+Hello welcome to node js.... writing to file one
